@@ -59,6 +59,6 @@ LDA\
 If you have any questions, please contact Jeffrey (Young-Min) Cho: jch0 at seas dot upenn dot edu
 
 # References
-[1] Cho, Young-Min, et al. "Language-based Valence and Arousal Expressions between the United States and China: a Cross-Cultural Examination." To appear in Findings of NAACL 2025.
+[1] Cho, Young-Min, et al. "Language-based Valence and Arousal Expressions between the United States and China: a Cross-Cultural Examination." To appear in Findings of NAACL 2025.  
 [2] Mohammad, Saif M. “Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words.” Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL), Melbourne, Australia, July 2018.  
 [3] Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." Journal of machine Learning research 3.Jan (2003): 993-1022.  
