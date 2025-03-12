@@ -2,7 +2,7 @@
 This is the github repository for the paper [Language-based Valence and Arousal Expressions between the United States and China: a Cross-Cultural Examination](https://arxiv.org/pdf/2401.05254) [1] from the findings of NAACL 2025.
 
 ## Data
-The data are stored in a [Google Drive](https://drive.google.com/drive/folders/1snwfk8QG6W2MaCnnb_MItlljInfCaJw5?usp=sharing) folder. The data are separated into three parts: VA_score, n-gram, and LDA. Due to the sensitivity of the data, we do not release the content of original posts. Please contact us for special requests. 
+The data are stored in a [Google Drive](https://drive.google.com/drive/folders/1snwfk8QG6W2MaCnnb_MItlljInfCaJw5?usp=sharing) folder. The data are separated into three parts: VA_score, n-gram, and LDA. Due to the sensitivity of the data, we do not release the content of original posts. Please contact us for special requests.  
 
 ### VA_score
 The post level valence and arousal score data are stored in the `VA_score` folder. The scores are labeled with NRC_VAD [2] lexica. The data are stored in the following format:
