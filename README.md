@@ -44,7 +44,7 @@ n-gram/
 ### LDA
 The data used for generating LDA plots are stored in the `LDA` folder. They are stored in the following format:
 ```
-LDA\
+LDA/
 │
 └───twitter_topic_message_topic_tagcloud.csv
 └───twitter_topic_message.csv
