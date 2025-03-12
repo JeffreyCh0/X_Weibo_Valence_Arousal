@@ -52,11 +52,12 @@ LDA\
 └───weibo_topic_message.csv
 ```
 
-Each `_topic_message.csv` file contains LDA topics and correlation statistics with valence and arousal scores, where LDA is calculated on the post level. 
+Each `_topic_message.csv` file contains LDA [2] topics and correlation statistics with valence and arousal scores, where LDA is calculated on the post level. 
 Each `_tagcloud.csv` shows the corresponding top words within each topic.
 
 # Contact
 If you have any questions, please contact Jeffrey (Young-Min) Cho: jch0 at seas dot upenn dot edu
 
 # References
-[1] Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words. Saif M. Mohammad. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics, Melbourne, Australia, July 2018.
+[1] Mohammad, Saif M. “Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words.” Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL), Melbourne, Australia, July 2018.
+[2] Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." Journal of machine Learning research 3.Jan (2003): 993-1022.
